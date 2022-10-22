@@ -20,28 +20,13 @@ class Config(object):
     DEFAULT_THEME = None
 
 
-class ProductionConfig(Config):
-    pass
-
 class DevelopmentConfig(Config):
     DEBUG = True
-
-    DB_NAME = "production-db"
-    DB_USERNAME = "root"
-    DB_PASSWORD = "erikphil"
-
-    UPLOADS = "/home/username/app/app/static/uploads"
     SESSION_COOKIE_SECURE = False
 
 
 class TestingConfig(Config):
     DEBUG = True
-
-    DB_NAME = "production-db"
-    DB_USERNAME = "root"
-    DB_PASSWORD = "erikphil"
-
-    UPLOADS = "/home/username/app/app/static/uploads"
     SESSION_COOKIE_SECURE = False
 
  
