@@ -23,6 +23,12 @@ You will get url copy it and paste in browser.
 
 * Step 7: You have sample_data folder where you can get images to test.
 
+## Input 
+
+
+
+![original](https://user-images.githubusercontent.com/50231750/197356686-ad4b2e92-5cbb-418c-8b3a-54b8dac37b3f.jpg)
+
 
 ## Summary
 
