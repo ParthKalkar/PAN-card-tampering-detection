@@ -31,7 +31,26 @@ You will get url copy it and paste in browser.
 
 ![original](https://user-images.githubusercontent.com/50231750/197356686-ad4b2e92-5cbb-418c-8b3a-54b8dac37b3f.jpg)
 
+## Output
 
+
+![interface](https://user-images.githubusercontent.com/50231750/197356802-f790a82b-b717-4978-b6a3-87cf6b556374.png)
+
+
+### Output-1
+
+
+![output1_1](https://user-images.githubusercontent.com/50231750/197356832-b48f735a-985f-4f70-a9c0-2bc5ab5df71d.png)
+
+
+![output1_2](https://user-images.githubusercontent.com/50231750/197356849-02921c48-21f8-4fea-8eee-d36db9a069ba.png)
+
+### Output-2
+
+![output2_1](https://user-images.githubusercontent.com/50231750/197356889-3c354ba9-861a-4454-928b-4b52e5f437f9.png)
+
+
+![output2_2](https://user-images.githubusercontent.com/50231750/197356917-f715e66c-e794-436b-a479-c26ba47e51d3.png)
 
 
 
